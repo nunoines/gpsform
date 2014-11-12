@@ -1,0 +1,13 @@
+D:\Dados Gerais\PRG\GPS\gpsForm\gpsForm\bin\Release\gpsForm.exe
+D:\Dados Gerais\PRG\GPS\gpsForm\gpsForm\bin\Release\gpsForm.pdb
+D:\Dados Gerais\PRG\GPS\gpsForm\gpsForm\bin\Release\gpsForm.xml
+D:\Dados Gerais\PRG\GPS\gpsForm\gpsForm\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\Dados Gerais\PRG\GPS\gpsForm\gpsForm\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\Dados Gerais\PRG\GPS\gpsForm\gpsForm\obj\x86\Release\GPSDataDisplay.vbproj.GenerateResource.Cache
+D:\Dados Gerais\PRG\GPS\gpsForm\gpsForm\obj\x86\Release\gpsForm.exe
+D:\Dados Gerais\PRG\GPS\gpsForm\gpsForm\obj\x86\Release\gpsForm.xml
+D:\Dados Gerais\PRG\GPS\gpsForm\gpsForm\obj\x86\Release\gpsForm.pdb
+D:\Dados Gerais\PRG\GPS\gpsForm\gpsForm\bin\Release\gpsForm.exe.manifest
+D:\Dados Gerais\PRG\GPS\gpsForm\gpsForm\bin\Release\gpsForm.application
+D:\Dados Gerais\PRG\GPS\gpsForm\gpsForm\obj\x86\Release\gpsForm.exe.manifest
+D:\Dados Gerais\PRG\GPS\gpsForm\gpsForm\obj\x86\Release\gpsForm.application
